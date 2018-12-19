@@ -1,0 +1,12 @@
+easy/e1.txt/unsolved/00:00:00
+easy/e2.txt/unsolved/00:00:00
+easy/e3.txt/unsolved/00:00:00
+easy/e4.txt/unsolved/00:00:00
+medium/m1.txt/unsolved/00:00:00
+medium/m2.txt/unsolved/00:00:00
+medium/m3.txt/unsolved/00:00:00
+medium/m4.txt/unsolved/00:00:00
+hard/h1.txt/unsolved/00:00:00
+hard/h2.txt/unsolved/00:00:00
+hard/h3.txt/unsolved/00:00:00
+hard/h4.txt/unsolved/00:00:00
