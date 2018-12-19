@@ -11,7 +11,7 @@ This is a Sudoku Puzzle game application in .Net. It contains different difficul
 
 This is how the ouput looks
 
-![ass 5 1](https://user-images.githubusercontent.com/20373744/50244298-3b374880-0395-11e9-9f1c-6d54dc6567cd.JPG)         ![ass 5 2](https://user-images.githubusercontent.com/20373744/50244310-412d2980-0395-11e9-9dc3-a716e18fa5bf.JPG)
+![suduko 1](https://user-images.githubusercontent.com/20373744/50246830-fc58c100-039b-11e9-845e-47a45d229412.JPG) ![suduko 2](https://user-images.githubusercontent.com/20373744/50246831-fc58c100-039b-11e9-8f4c-44be7c6203d1.JPG)
 
 
 
