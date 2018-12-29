@@ -2,7 +2,7 @@
  *                                                                                                                 *
  *  CSCI 473/504							Assignment 5 								 Fall 2018                 *                                           
  *																										           *
- *  Programmer's: Sandeep Alla (z1821331) Gayathri Sanikommu (z1822939) Venkata SuryaVamsi Maddukuri (z1855404)    *  
+ *  Programmer's: Sandeep Alla (z1821331) *  
  *																										           *
  *  Date Due  : November 15, 2018			File :	Form1.cs     					     				           *                          
  *																										           *
